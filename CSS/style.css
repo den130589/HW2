@@ -1,0 +1,61 @@
+.font{
+    font-family: 'Bangers', cursive;
+}
+
+.content{
+    margin: 0 auto;
+    background-image: url(../image/21-fon-dlya-sayta.png);
+    background-size: contain;
+    width: 1000px;
+
+    padding: 25px;
+    box-sizing: border-box;
+    
+}
+.img-centr{
+    display: block;
+    margin: 0 auto;
+}
+
+h1, h2, h3{
+    text-align: center;
+}
+
+
+div.font{
+    border: 1px solid silver;
+    padding: 20px;
+
+}
+
+.a{
+    list-style-type: none;
+
+}
+
+.like-film{
+    background-image: url(../image/film1.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+
+
+}
+
+.padding-left{
+    padding-left: 250px;
+
+}
+
+.img-films{
+   
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+    width: 600px;
+}
